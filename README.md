@@ -33,6 +33,28 @@ Check out the live demo [here](https://affancoder.github.io/Todo_List/).
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
 
-## License
+## 🚀 About Me
+👋 Hi, I’m @affancoder (MD Affan Asghar)
 
-This project is licensed under the [MIT License](LICENSE).
+👀 I’m interested in coding.
+ 
+🌱 I’m currently Full Stack Web developer & Java Programmer.
+
+💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://affancoder.github.io/Portfolio_Website/)
+
+Email: affanasgar8@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mdaffanasghar/
+
+Instagram: https://www.instagram.com/mr_affan15/
+
+GitHub: https://github.com/affancoder
+
+## Feedback
+
+If you have any feedback, please reach out to us at affanasgar8@gmail.com
+
+
