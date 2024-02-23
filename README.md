@@ -6,7 +6,6 @@ Welcome to my Todo List web page project! This simple web application allows use
 
 - *Add Tasks*: Easily add tasks to your todo list.
 - *Delete Tasks*: Remove completed or unnecessary tasks.
-- *Mark Tasks as Complete*: Keep track of your progress by marking tasks as complete.
 - *Responsive Design*: The web page is designed to work seamlessly on various devices.
 
 ## Technologies Used
