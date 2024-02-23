@@ -15,23 +15,18 @@ Welcome to my Todo List web page project! This simple web application allows use
 - *CSS*: Implemented for styling and layout.
 - *JavaScript*: Implemented the functionality and interactivity of the todo list.
 
-## Screenshots
-
-![Todo List Screenshot](/screenshots/todo_list_screenshot.png)
-
 ## Live Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo [here](https://affancoder.github.io/Todo_List/).
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/todo-list.git
+1. Clone the repository: git clone https://github.com/affancoder/Todo_List.git
 2. Open index.html in your preferred web browser.
 
 ## How to Use
 
 - Enter a task in the input field and press enter or click the "Add" button to add it to the list.
-- Click on the checkbox to mark a task as complete.
 - Click on the trash icon to delete a task.
 
 ## Contributing
